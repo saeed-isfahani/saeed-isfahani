@@ -17,7 +17,32 @@
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://simpleskill.icons.workers.dev/svg?i=php" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=laravel" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=mysql" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=jquery" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=gitlab" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=git" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=github&theme=dark" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=docker" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=linux" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=wordpress" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=prestashop" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=mongodb" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=redis" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=sentry" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=postman" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=jira" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=webmin" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=jsonwebtokens&theme=dark" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=swagger" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=bootstrap" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=codeigniter" />
+</p>
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
